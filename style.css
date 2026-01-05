@@ -391,3 +391,8 @@ nav .fas{
     margin-top: -40px;
     display: block;
 }
+
+.hero-text {
+  font-size: 2.5rem; /* same as h1 */
+  font-weight: 700;
+}
